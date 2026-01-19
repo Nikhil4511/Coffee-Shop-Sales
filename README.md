@@ -61,11 +61,7 @@ The analysis can be extended for Excel dashboards, Power BI reports, or Python-b
 
 - Microsoft Excel – Data cleaning & analysis
 
-- (Optional extensions)
-
-- Power BI – Interactive dashboard
-
-- Python (Pandas, Matplotlib) – Exploratory Data Analysis
+-  Microsoft Excel – Interactive dashboard
 
 ## 📊 Analysis Performed
 
